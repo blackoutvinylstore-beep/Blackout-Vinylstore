@@ -29,13 +29,6 @@
             "type": "firefox",
             "request": "attach",
             "name": "Attach"
-        },
-        {
-            "type": "chrome",
-            "request": "launch",
-            "name": "Lancer Chrome en utilisant localhost",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
         }
     ]
 }
